@@ -1,7 +1,6 @@
 ### JOIN 4 JOIN BOT - THE BEST BOT TO GET A LOT OF MEMBERS !
 
-
-Gain members quickly with the j4j system or with his economy system ! its very easy to use. Now no need to advertise your server everywhere with this bot !
+Gain members quickly with the join4join bot ! its very easy to use. Now no need to advertise your server everywhere with this bot !
 
 
 ### __**COMMANDS LIST**__
