@@ -24,9 +24,7 @@ Gain members quickly with the join4join bot ! its very easy to use. Now no need 
 ```
 
 ### LINKS
-[Click here to add the bot](https://discordapp.com/api/oauth2/authorize?client_id=606596412582395914&permissions=-1&scope=bot)
-
-[Click here to join the support server](https://discord.gg/pJ5U7b3) 
+[Click here to join the support server](https://discord.gg/YYUKckT5tS) 
 
 [Click here to use the bot on the website](https://join4join.xyz)
 
